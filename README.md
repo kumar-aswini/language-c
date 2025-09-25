@@ -1,2 +1,3 @@
 # language-c
 This is my first git hub repository...
+author - Aswini kumar
